@@ -1,4 +1,15 @@
  <h2 align="left">Hi 👋, I'm R Ravi Kumar<br><br>A passionate Full stack developer from India</h2>
+ <ul><li>
+  I'm currently working on Freelancing and YouTube
+ </li>
+ <li>I'm currently learning Full Stack 
+  
+ </li>
+ <li>I'm looking to Collaborate with the Full stack developers
+  
+ </li><li>Ask me about : HTML,CSS,JS,C,PYTHON etc....
+  
+ </li></ul>
 
 ###
 
