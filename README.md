@@ -66,14 +66,14 @@
 ###
 
 <div align="center">
-  <a href="https://youtube.com/@codewithraviram?si=BaMaDY2EIe25eOd7" target="_blank">
+  <a href="https://youtube.com/@raviramtechtalks?si=WKDJvN5ahRDnUPeo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/codewithraviram/profilecard/?igsh=b2RoN2k2cGl5cnVs" target="_blank">
+  <a href="https://www.instagram.com/raviramtechtalks?igsh=b2RoN2k2cGl5cnVs" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=ravik059144&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/ravi-kumar-rajaboina-a85797254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/ravi-kumar-a85797254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
